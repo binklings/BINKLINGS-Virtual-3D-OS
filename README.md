@@ -8,3 +8,7 @@ This product is currently in a test cut-off, please read the product EULA before
 [file 1](https://www.mediafire.com/file/5tkrdzvefmmgdjo/AIChat-Windows.ucas/file)</br>
 [file 2](https://www.mediafire.com/file/lelnsxz2efs6m4d/AIChat.exe/file)</br>
 3.Place the first file under "[your path]\Windows\AIChat\Content\Paks\" </br>Place the second file under "[your path]\Windows\AIChat\Binaries\Win64\"</br>
+4.Finally, unzip "BKLOS.zip" and place it in the root directory of your C drive
+### Congratulations! You have completed the installation
+Now you can run \windows\BKLV3OS.exe to start!
+## website: BINKLINGS.GITHUB.IO
