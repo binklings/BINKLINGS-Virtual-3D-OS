@@ -15,4 +15,4 @@ Now you can run \windows\BKLV3OS.exe to start!
 ## Bilibili: https://space.bilibili.com/532918134
 ## Youtube: https://www.youtube.com/channel/UC43OeRTlqWnF58yW3f1HoMg
 ## Twitter: BINKLINGS_GAMES
-## QQ: 776045808
+## QQ群: 776045808
