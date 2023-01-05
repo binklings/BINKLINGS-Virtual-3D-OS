@@ -6,3 +6,9 @@ BINKLINGS Virtual 3D OS EULA
 (4) Github.com and sync.com are the download methods for this product. This product is not currently open source and does not use open source protocols, and you are expected to comply with this EULA in matters relating only to this product
 
 2.Author Statement
+(1) BINKLINGS (GAMES) is the sole author of this product and is the owner of all rights to this product, and references to "BINKLINGS" or "BINKLINGS GAMES" in the EULA are not references to a corporation or partnership. The term "BINKLINGS" or "BINKLINGS GAMES" in the EULA does not refer to a company or partnership, but rather to the author (individual) of this product. This situation may change in the future, so please always check and agree to the latest version of the EULA.
+(2) Please note that the http links below are official social media or website links acknowledged by BINKLINGS and that the authorship should be identified in the usual copyright questions by.
+Bilibili (social media): https://b23.tv/Ub3kj3M (this is the most effective and preferred method of identification)
+Youtube (social media): https://www.youtube.com/channel/UC43OeRTlqWnF58yW3f1HoMg
+Twitter (social media): twitter.com/BINKLINGS_GAMES?s=09
+Official website served by github pages: binklings.github.io
