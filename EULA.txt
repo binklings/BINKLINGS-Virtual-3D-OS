@@ -19,3 +19,5 @@ Official website served by github pages: binklings.github.io
 (3) BINKLINGS Virtual 3D OS uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. Unreal® Engine, Copyright 1998 – 2023, Epic Games, Inc. All rights reserved.
 
 4.If you have any questions, please contact us at binklings@163.com or simply discuss at bilibili, twitter, youtube and other social media
+
+Updated January 5, 2023, UTC
