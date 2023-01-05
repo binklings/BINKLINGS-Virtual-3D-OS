@@ -5,8 +5,8 @@ This product is currently in a test cut-off, please read the product EULA before
 ## How to install?
 1.First, click on the green "code" button in this github repository page and click on "Download zip". Once downloaded, unzip this zip file</br>
 2.Then, download two important files via the links below</br>
-[file 1](https://www.mediafire.com/file/5tkrdzvefmmgdjo/AIChat-Windows.ucas/file)</br>
-[file 2](https://www.mediafire.com/file/lelnsxz2efs6m4d/AIChat.exe/file)</br>
+[file 1](https://ln5.sync.com/dl/f3cc60160/af5z8g55-hufw6kmd-avgvnaw6-iq252mk8)</br>
+[file 2](https://ln5.sync.com/dl/3a1300f90/5en7zvpw-28rm52ra-ar9czpzv-9xd5xeij)</br>
 3.Place the first file under "[your path]\Windows\AIChat\Content\Paks\" </br>Place the second file under "[your path]\Windows\AIChat\Binaries\Win64\"</br>
 4.Finally, unzip "BKLOS.zip" and place it in the root directory of your C drive
 ### Congratulations! You have completed the installation
