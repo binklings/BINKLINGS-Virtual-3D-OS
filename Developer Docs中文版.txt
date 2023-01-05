@@ -1,0 +1,43 @@
+创建3D可响应窗体
+
+在这一篇文档中,你将学会使用BKLV3OS提供的本地接口在系统中创建3D窗体,并在用户输入内容时,将用户输入的内容返回到另一个文本文件中
+
+用户在登录BKLV3OS后,系统会自动在场景中创建相应actor来监听接口文件的变动,想要从系统外部向系统内部发送命令,你需要将命令内容保存到 "C:\BKLOS\system\workspace\input_run_cmd" 这个文本文件中,BKLV3OS会自动处理这些命令,处理完成后,会再次清空这个文本文件的内容,以便您继续发送命令(也就是说这是一个单线程处理程序,但只要您确保两次发送命令时间大于3D系统中的一帧,您可以连续发送命令)
+
+命令格式如下:
+
+Create Window(M=xxx,T=xxx,TC=xxx,TP=xxx,RP=xxx)
+
+您应将xxx换成相应的数据
+
+M代表窗体颜色,0代表淡蓝色,1代表黑色,2代表白色
+
+T代表窗体标题,您输入的标题会显示在窗体最上方
+
+TC代表text color,适用于窗体标题和所有文字,0代表黑色,1代表白色
+
+TP代表窗体文本内容来自哪个文本文件,您需要创建一个文本文件,并写入您需要展示在窗体中的文本,您需要在命令中提供这个文本的绝对路径,BKLV3OS会实时监听并把您写入这个文本的内容实时展示在窗体上
+
+RP代表返回路径,当用户在窗体中输入内容并提交时,系统会把用户输入的内容写入到您提供的这个路径所对应的文本文件中
+
+您可以用任何编程语言调用这个接口,如c++等
+
+下面是一个使用WINDOWS命令批处理程序(bat)调用这个接口的例子:
+
+echo TestText > C:\MyProgramFolder\text.txt
+
+echo Create Window(M=0,T=MyProgram,TC=1,TP=C:\MyProgramFolder\text.txt,RP=C:\MyProgramFolder\text2.txt) > C:\BKLOS\system\workspace\input_run_cmd
+
+timeout 1
+
+:loop
+
+set /p a=<C:\MyProgramFolder\text2.txt
+
+if "%a%"=="hi" (
+
+echo the user send a "hi"
+
+)
+
+goto loop
