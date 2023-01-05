@@ -12,3 +12,10 @@ Bilibili (social media): https://b23.tv/Ub3kj3M (this is the most effective and 
 Youtube (social media): https://www.youtube.com/channel/UC43OeRTlqWnF58yW3f1HoMg
 Twitter (social media): twitter.com/BINKLINGS_GAMES?s=09
 Official website served by github pages: binklings.github.io
+
+3.Agreements relating to Unreal Engine
+(1) BINKLINGS GAMES adheres to EPIC's End User Licence Agreement and if your use of this code involves the use of the Unreal Engine, please adhere to the EPICGAMES regulations
+(2) BINKLINGS GAMES explicitly disclaims any representations, warranties, conditions, and liabilities related to the Unreal Engine.
+(3) BINKLINGS Virtual 3D OS uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. Unreal® Engine, Copyright 1998 – 2023, Epic Games, Inc. All rights reserved.
+
+4.If you have any questions, please contact us at binklings@163.com or simply discuss at bilibili, twitter, youtube and other social media
