@@ -16,3 +16,4 @@ Now you can run \windows\BKLV3OS.exe to start!
 ## Youtube: https://www.youtube.com/channel/UC43OeRTlqWnF58yW3f1HoMg
 ## Twitter: BINKLINGS_GAMES
 ## QQ群: 776045808
+Latest version: 0.1.0.0
