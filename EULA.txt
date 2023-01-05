@@ -1,6 +1,6 @@
 BINKLINGS Virtual 3D OS EULA
 1.Product Declaration
-(1) BINKLINGS Virtual 3D OS (sometimes referred to as BKLV3OS) is a permanent, completely free, completely non-commercial product
+(1) BINKLINGS Virtual 3D OS (sometimes referred to as BKLV3OS) is a permanent, completely free, completely non-commercial product. Any code for this product should only be used for learning and explicit non-commercial purposes
 (2) The author of BINKLINGS Virtual 3D OS (BINKLINGS or BINKLINGS GAMES) reserves the right to use this product, you may not use any code from this product for commercial purposes, if you want to reproduce this product you need to give credit to the original author and a link to the original product (https://github.com/binklings/BINKLINGS-Virtual-3D-OS)
 (3) References to "this product" or "BINKLINGS Virtual 3D OS" in this Agreement include references to product files on the github repository (https://github.com/binklings/BINKLINGS-Virtual-3D-OS) and the files stored on sync.com (https://ln5.sync.com/dl/f3cc60160/af5z8g55-hufw6kmd-avgvnaw6-iq252mk8   and   https://ln5.sync.com/dl/3a1300f90/5en7zvpw-28rm52ra-ar9czpzv-9xd5xeij), which are applicable to any of the terms of this Agreement
 (4) Github.com and sync.com are the download methods for this product. This product is not currently open source and does not use open source protocols, and you are expected to comply with this EULA in matters relating only to this product
